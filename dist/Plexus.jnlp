@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Plexus.jnlp">
+  <information>
+    <title>Plexus</title>
+    <vendor>Santiago Benoit</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" java-vm-args="-Xss4m "  href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Plexus.jar" size="731018" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Plexus" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="com.rectangularchicken.plexus.GUI"  name="Plexus" />
+  <update check="always"/>
+</jnlp>

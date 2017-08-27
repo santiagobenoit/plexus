@@ -1,0 +1,14 @@
+Version 0.0.1:
+- first release for alpha testing
+
+Version 0.0.2:
+- added singleplayer mode with bots
+- added fullscreen mode
+- improved map generation
+- minor bug fixes
+
+Version 0.0.3:
+- added sounds
+- improved visuals
+- improved AI
+- many bug fixes
