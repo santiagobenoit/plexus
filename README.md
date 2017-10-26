@@ -1,6 +1,6 @@
 # Plexus
 ### By Santiago Benoit
-Plexus is a simple networking strategy game for 2-4 human or computer players.
+Plexus is a simple networking strategy game for 2-4 players. It can be played in singleplayer mode against AI players or in multiplayer mode.
 
 ## How to Play
 Plexus is played on a randomly generated network of interconnected nodes. The objective of the game is to acquire the greatest number of connections between nodes as possible before the game ends. The game ends when the next player can no longer make any moves (even if other players still can).
