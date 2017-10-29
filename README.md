@@ -20,7 +20,7 @@ On your turn, you may claim an unclaimed node that is directly connected to one 
 - Enable Audio: Toggle sound on and off.
 - Fullscreen Mode: Toggle between fullscreen and windowed mode.
 - Viewport Width/Height: Width/height of the game window. (100 - screen width/height)
-- Zoom Exponent: A higher value will allow for a closer zoom. (0.5 - 2.0)
+- Zoom Exponent: A higher value will allow for zooming in closer. (0.5 - 2.0)
 
 
 ![Plexus Screenshot](/images/plexus_screenshot.png?raw=true)
