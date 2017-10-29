@@ -22,5 +22,8 @@ On your turn, you may claim an unclaimed node that is directly connected to one 
 - Viewport Width/Height: Width/height of the game window. (100 - screen width/height)
 - Zoom Exponent: A higher value will allow for zooming in closer. (0.5 - 2.0)
 
+## Future Directions
+I plan to train an AI to play this game using reinforcement learning.
+
 
 ![Plexus Screenshot](/images/plexus_screenshot.png?raw=true)
