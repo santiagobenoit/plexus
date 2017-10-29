@@ -9,4 +9,17 @@ At the start of the game, each player chooses their starting position, starting 
 
 On your turn, you may claim an unclaimed node that is directly connected to one of your owned nodes. Each connection between your owned nodes will gain you one point. When the game ends, if there is no tie for first place, whoever has the most points wins!
 
+## Game Setup
+- Singleplayer: All players other than player 1 will be controlled by AI.
+- Multiplayer: Humans only.
+- Players: Total number of players that will participate in the game. (1 - 4)
+- Nodes: Number of nodes to spawn on the map. (Minimum 5)
+- Density: A higher density will spawn nodes closer together and with more connections. (0.1 - 1.0)
+
+## Settings
+- Enable Audio: Toggle sound on and off.
+- Fullscreen Mode: Toggle between fullscreen and windowed mode.
+- Viewport Width/Height: Width/height of the game window. (100 - screen width/height)
+- Zoom Exponent: A higher value will allow for a closer zoom. (0.5 - 2.0)
+
 ![Plexus Screenshot](/images/plexus_screenshot.png?raw=true)
